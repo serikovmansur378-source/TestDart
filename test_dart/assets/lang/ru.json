@@ -1,0 +1,9 @@
+{
+  "directory": "Справочник",
+  "space_title": "Космос",
+  "space_desc": "В данном разделе будет информация про метеориты, планеты, галактику и звёзды.",
+  "code_title": "Программирование",
+  "code_desc": "В данном разделе будет Python, C++ и Dart.",
+  "history_title": "История",
+  "history_desc": "Лор Warhammer и серия Metro."
+}
